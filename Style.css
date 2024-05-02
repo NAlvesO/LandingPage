@@ -20,3 +20,25 @@
   --bs-btn-bg: var(--bd-violet-bg);
 }
 
+.price {
+    font-size: 45px;
+    color: blue;
+    font-weight: bold;
+}
+
+.card-body h5 {
+    text-decoration: underline;
+}
+
+.card {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.tituloclass {
+    text-decoration: underline; 
+}
+
+.TituloDepoimentos {
+    text-decoration: underline;  
+}
